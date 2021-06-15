@@ -1,4 +1,4 @@
-# Library Of Pybel
+# Miniaturized Library Of Pybel
 ## About
 A branch of cakenggt's beatifully integrated Python Library of Babel (https://github.com/cakenggt/Library-Of-Pybel) with the aim of reducing executable size.
 ## Functionality
