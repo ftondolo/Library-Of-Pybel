@@ -22,6 +22,6 @@ Run the file from the command line with an action argument. The following argume
 
 ## Explanation
 
-Seeking to miniaturize cakenggt's clever text-to-address encoding scheme Python implementation of the Library of Babel to a final script size inferior to 8kb due to storage constraints I turned to pyminifier! (https://github.com/liftoff/pyminifier)
+Seeking to miniaturize cakenggt's clever text-to-address encoding scheme to a final script size inferior to 8kb due to storage constraints I turned to pyminifier! (https://github.com/liftoff/pyminifier)
 
 Using bz2 compression on a base64 encoded version of his script final size was reduced to a little over 3316 bytes. Over cmpreession algorithms resulted in smaller final file sizee but also broke functionality, either completely (lzma), or partially (gzip).
